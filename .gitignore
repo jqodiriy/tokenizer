@@ -1,0 +1,14 @@
+/.idea
+
+/venv
+/cyrillic_dataset
+/cyrillic_dict3
+/cyrillic_text
+/cyrillic_UzTransliterator
+/dataset
+/prepared
+/prepared2
+*.csv
+*.json
+*.txt
+!tahrirchi-news.json
